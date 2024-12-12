@@ -1,7 +1,7 @@
 #include "sdt.h"
 #include <iostream>
 using namespace std;
-
+//программа является учебной
 int main()
 {
     cout << "Vvedite 2 chisla cherez probel: ";
