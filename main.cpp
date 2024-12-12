@@ -10,4 +10,5 @@ int main()
 
     cout << number1 + number2 << endl;
     cout << number1 - number2 << endl;
+    cout << number1 * number2 << endl;
 }
